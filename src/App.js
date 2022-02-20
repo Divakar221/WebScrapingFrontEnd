@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+
 import "./App.css";
 import Appbar from "./Appbar";
 import Cards from "./cards";
